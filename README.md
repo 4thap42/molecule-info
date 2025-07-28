@@ -6,7 +6,7 @@ molecular structure using RDKit and displays the image.
 
 \## Requirements
 
-\- Python 3.x - RDKit - cirpy - PIL or any image viewer that works with
+\- Python 3.12 - RDKit - cirpy - PIL or any image viewer that works with
 \`img.show()\`
 
 This project uses a Conda environment. To set it up:
